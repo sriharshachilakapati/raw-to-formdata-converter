@@ -1,6 +1,6 @@
 {
   "name": "raw-to-formdata-converter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Convert bulk raw-data into Form-Data for PostMan responses",
   "main": "app.js",
   "scripts": {

@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "ps-remove-warnings": "./index.js"
+    "raw-to-formdata-converter": "./app.js"
   },
   "preferGlobal": true,
   "repository": {
